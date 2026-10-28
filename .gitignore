@@ -1,0 +1,20 @@
+# Local dependencies, generated builds, and application data
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+backend/data/
+.gallery_index/
+**/.gallery_index/
+**/__pycache__/
+*.py[cod]
+backend/gallery-regression-*/
+graphify-out/
+.release-work/
+release/
+*.log
+*.zip
+.env
+.env.*
+!.env.example
+backend/.env
+.DS_Store

@@ -1,0 +1,8 @@
+.gallery_index/
+data/thumbnails/
+data/lancedb/
+data/face_models/
+gallery-regression-*/
+*.lance
+*.onnx
+*.avi
